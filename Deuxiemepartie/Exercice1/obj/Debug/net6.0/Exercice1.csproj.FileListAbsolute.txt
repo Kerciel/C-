@@ -1,0 +1,15 @@
+C:\Users\Arinfo\Desktop\C#\Deuxiemepartie\Exercice1\bin\Debug\net6.0\Exercice1.exe
+C:\Users\Arinfo\Desktop\C#\Deuxiemepartie\Exercice1\bin\Debug\net6.0\Exercice1.deps.json
+C:\Users\Arinfo\Desktop\C#\Deuxiemepartie\Exercice1\bin\Debug\net6.0\Exercice1.runtimeconfig.json
+C:\Users\Arinfo\Desktop\C#\Deuxiemepartie\Exercice1\bin\Debug\net6.0\Exercice1.dll
+C:\Users\Arinfo\Desktop\C#\Deuxiemepartie\Exercice1\bin\Debug\net6.0\Exercice1.pdb
+C:\Users\Arinfo\Desktop\C#\Deuxiemepartie\Exercice1\obj\Debug\net6.0\Exercice1.csproj.AssemblyReference.cache
+C:\Users\Arinfo\Desktop\C#\Deuxiemepartie\Exercice1\obj\Debug\net6.0\Exercice1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arinfo\Desktop\C#\Deuxiemepartie\Exercice1\obj\Debug\net6.0\Exercice1.AssemblyInfoInputs.cache
+C:\Users\Arinfo\Desktop\C#\Deuxiemepartie\Exercice1\obj\Debug\net6.0\Exercice1.AssemblyInfo.cs
+C:\Users\Arinfo\Desktop\C#\Deuxiemepartie\Exercice1\obj\Debug\net6.0\Exercice1.csproj.CoreCompileInputs.cache
+C:\Users\Arinfo\Desktop\C#\Deuxiemepartie\Exercice1\obj\Debug\net6.0\Exercice1.dll
+C:\Users\Arinfo\Desktop\C#\Deuxiemepartie\Exercice1\obj\Debug\net6.0\refint\Exercice1.dll
+C:\Users\Arinfo\Desktop\C#\Deuxiemepartie\Exercice1\obj\Debug\net6.0\Exercice1.pdb
+C:\Users\Arinfo\Desktop\C#\Deuxiemepartie\Exercice1\obj\Debug\net6.0\Exercice1.genruntimeconfig.cache
+C:\Users\Arinfo\Desktop\C#\Deuxiemepartie\Exercice1\obj\Debug\net6.0\ref\Exercice1.dll

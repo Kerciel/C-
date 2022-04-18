@@ -1,0 +1,15 @@
+C:\Users\Arinfo\Desktop\C#\Poo\Poo\bin\Debug\net6.0\Poo.exe
+C:\Users\Arinfo\Desktop\C#\Poo\Poo\bin\Debug\net6.0\Poo.deps.json
+C:\Users\Arinfo\Desktop\C#\Poo\Poo\bin\Debug\net6.0\Poo.runtimeconfig.json
+C:\Users\Arinfo\Desktop\C#\Poo\Poo\bin\Debug\net6.0\Poo.dll
+C:\Users\Arinfo\Desktop\C#\Poo\Poo\bin\Debug\net6.0\Poo.pdb
+C:\Users\Arinfo\Desktop\C#\Poo\Poo\obj\Debug\net6.0\Poo.csproj.AssemblyReference.cache
+C:\Users\Arinfo\Desktop\C#\Poo\Poo\obj\Debug\net6.0\Poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arinfo\Desktop\C#\Poo\Poo\obj\Debug\net6.0\Poo.AssemblyInfoInputs.cache
+C:\Users\Arinfo\Desktop\C#\Poo\Poo\obj\Debug\net6.0\Poo.AssemblyInfo.cs
+C:\Users\Arinfo\Desktop\C#\Poo\Poo\obj\Debug\net6.0\Poo.csproj.CoreCompileInputs.cache
+C:\Users\Arinfo\Desktop\C#\Poo\Poo\obj\Debug\net6.0\Poo.dll
+C:\Users\Arinfo\Desktop\C#\Poo\Poo\obj\Debug\net6.0\refint\Poo.dll
+C:\Users\Arinfo\Desktop\C#\Poo\Poo\obj\Debug\net6.0\Poo.pdb
+C:\Users\Arinfo\Desktop\C#\Poo\Poo\obj\Debug\net6.0\Poo.genruntimeconfig.cache
+C:\Users\Arinfo\Desktop\C#\Poo\Poo\obj\Debug\net6.0\ref\Poo.dll

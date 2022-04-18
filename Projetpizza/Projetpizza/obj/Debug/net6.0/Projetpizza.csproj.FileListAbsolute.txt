@@ -1,0 +1,17 @@
+C:\Users\Arinfo\Desktop\C#\Projetpizza\Projetpizza\bin\Debug\net6.0\Projetpizza.exe
+C:\Users\Arinfo\Desktop\C#\Projetpizza\Projetpizza\bin\Debug\net6.0\Projetpizza.deps.json
+C:\Users\Arinfo\Desktop\C#\Projetpizza\Projetpizza\bin\Debug\net6.0\Projetpizza.runtimeconfig.json
+C:\Users\Arinfo\Desktop\C#\Projetpizza\Projetpizza\bin\Debug\net6.0\Projetpizza.dll
+C:\Users\Arinfo\Desktop\C#\Projetpizza\Projetpizza\bin\Debug\net6.0\Projetpizza.pdb
+C:\Users\Arinfo\Desktop\C#\Projetpizza\Projetpizza\obj\Debug\net6.0\Projetpizza.csproj.AssemblyReference.cache
+C:\Users\Arinfo\Desktop\C#\Projetpizza\Projetpizza\obj\Debug\net6.0\Projetpizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arinfo\Desktop\C#\Projetpizza\Projetpizza\obj\Debug\net6.0\Projetpizza.AssemblyInfoInputs.cache
+C:\Users\Arinfo\Desktop\C#\Projetpizza\Projetpizza\obj\Debug\net6.0\Projetpizza.AssemblyInfo.cs
+C:\Users\Arinfo\Desktop\C#\Projetpizza\Projetpizza\obj\Debug\net6.0\Projetpizza.csproj.CoreCompileInputs.cache
+C:\Users\Arinfo\Desktop\C#\Projetpizza\Projetpizza\obj\Debug\net6.0\Projetpizza.dll
+C:\Users\Arinfo\Desktop\C#\Projetpizza\Projetpizza\obj\Debug\net6.0\refint\Projetpizza.dll
+C:\Users\Arinfo\Desktop\C#\Projetpizza\Projetpizza\obj\Debug\net6.0\Projetpizza.pdb
+C:\Users\Arinfo\Desktop\C#\Projetpizza\Projetpizza\obj\Debug\net6.0\Projetpizza.genruntimeconfig.cache
+C:\Users\Arinfo\Desktop\C#\Projetpizza\Projetpizza\obj\Debug\net6.0\ref\Projetpizza.dll
+C:\Users\Arinfo\Desktop\C#\Projetpizza\Projetpizza\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Arinfo\Desktop\C#\Projetpizza\Projetpizza\obj\Debug\net6.0\Projetpizza.csproj.CopyComplete

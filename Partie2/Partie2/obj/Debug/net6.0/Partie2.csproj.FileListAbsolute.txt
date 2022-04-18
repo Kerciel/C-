@@ -1,0 +1,15 @@
+C:\Users\fzlau\OneDrive\Bureau\arinfo_cda\C#-20220405T071828Z-001\C#\Partie2\Partie2\bin\Debug\net6.0\Partie2.exe
+C:\Users\fzlau\OneDrive\Bureau\arinfo_cda\C#-20220405T071828Z-001\C#\Partie2\Partie2\bin\Debug\net6.0\Partie2.deps.json
+C:\Users\fzlau\OneDrive\Bureau\arinfo_cda\C#-20220405T071828Z-001\C#\Partie2\Partie2\bin\Debug\net6.0\Partie2.runtimeconfig.json
+C:\Users\fzlau\OneDrive\Bureau\arinfo_cda\C#-20220405T071828Z-001\C#\Partie2\Partie2\bin\Debug\net6.0\Partie2.dll
+C:\Users\fzlau\OneDrive\Bureau\arinfo_cda\C#-20220405T071828Z-001\C#\Partie2\Partie2\bin\Debug\net6.0\Partie2.pdb
+C:\Users\fzlau\OneDrive\Bureau\arinfo_cda\C#-20220405T071828Z-001\C#\Partie2\Partie2\obj\Debug\net6.0\Partie2.csproj.AssemblyReference.cache
+C:\Users\fzlau\OneDrive\Bureau\arinfo_cda\C#-20220405T071828Z-001\C#\Partie2\Partie2\obj\Debug\net6.0\Partie2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fzlau\OneDrive\Bureau\arinfo_cda\C#-20220405T071828Z-001\C#\Partie2\Partie2\obj\Debug\net6.0\Partie2.AssemblyInfoInputs.cache
+C:\Users\fzlau\OneDrive\Bureau\arinfo_cda\C#-20220405T071828Z-001\C#\Partie2\Partie2\obj\Debug\net6.0\Partie2.AssemblyInfo.cs
+C:\Users\fzlau\OneDrive\Bureau\arinfo_cda\C#-20220405T071828Z-001\C#\Partie2\Partie2\obj\Debug\net6.0\Partie2.csproj.CoreCompileInputs.cache
+C:\Users\fzlau\OneDrive\Bureau\arinfo_cda\C#-20220405T071828Z-001\C#\Partie2\Partie2\obj\Debug\net6.0\Partie2.dll
+C:\Users\fzlau\OneDrive\Bureau\arinfo_cda\C#-20220405T071828Z-001\C#\Partie2\Partie2\obj\Debug\net6.0\refint\Partie2.dll
+C:\Users\fzlau\OneDrive\Bureau\arinfo_cda\C#-20220405T071828Z-001\C#\Partie2\Partie2\obj\Debug\net6.0\Partie2.pdb
+C:\Users\fzlau\OneDrive\Bureau\arinfo_cda\C#-20220405T071828Z-001\C#\Partie2\Partie2\obj\Debug\net6.0\Partie2.genruntimeconfig.cache
+C:\Users\fzlau\OneDrive\Bureau\arinfo_cda\C#-20220405T071828Z-001\C#\Partie2\Partie2\obj\Debug\net6.0\ref\Partie2.dll

@@ -1,0 +1,15 @@
+C:\Users\Arinfo\Desktop\C#\ConsoleApp1\Exercice4\bin\Debug\net6.0\Exercice4.exe
+C:\Users\Arinfo\Desktop\C#\ConsoleApp1\Exercice4\bin\Debug\net6.0\Exercice4.deps.json
+C:\Users\Arinfo\Desktop\C#\ConsoleApp1\Exercice4\bin\Debug\net6.0\Exercice4.runtimeconfig.json
+C:\Users\Arinfo\Desktop\C#\ConsoleApp1\Exercice4\bin\Debug\net6.0\Exercice4.dll
+C:\Users\Arinfo\Desktop\C#\ConsoleApp1\Exercice4\bin\Debug\net6.0\Exercice4.pdb
+C:\Users\Arinfo\Desktop\C#\ConsoleApp1\Exercice4\obj\Debug\net6.0\Exercice4.csproj.AssemblyReference.cache
+C:\Users\Arinfo\Desktop\C#\ConsoleApp1\Exercice4\obj\Debug\net6.0\Exercice4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arinfo\Desktop\C#\ConsoleApp1\Exercice4\obj\Debug\net6.0\Exercice4.AssemblyInfoInputs.cache
+C:\Users\Arinfo\Desktop\C#\ConsoleApp1\Exercice4\obj\Debug\net6.0\Exercice4.AssemblyInfo.cs
+C:\Users\Arinfo\Desktop\C#\ConsoleApp1\Exercice4\obj\Debug\net6.0\Exercice4.csproj.CoreCompileInputs.cache
+C:\Users\Arinfo\Desktop\C#\ConsoleApp1\Exercice4\obj\Debug\net6.0\Exercice4.dll
+C:\Users\Arinfo\Desktop\C#\ConsoleApp1\Exercice4\obj\Debug\net6.0\refint\Exercice4.dll
+C:\Users\Arinfo\Desktop\C#\ConsoleApp1\Exercice4\obj\Debug\net6.0\Exercice4.pdb
+C:\Users\Arinfo\Desktop\C#\ConsoleApp1\Exercice4\obj\Debug\net6.0\Exercice4.genruntimeconfig.cache
+C:\Users\Arinfo\Desktop\C#\ConsoleApp1\Exercice4\obj\Debug\net6.0\ref\Exercice4.dll

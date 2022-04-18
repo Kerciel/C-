@@ -1,0 +1,15 @@
+C:\Users\Arinfo\Desktop\C#\Nombremagique\Nombremagique\bin\Debug\net6.0\Nombremagique.exe
+C:\Users\Arinfo\Desktop\C#\Nombremagique\Nombremagique\bin\Debug\net6.0\Nombremagique.deps.json
+C:\Users\Arinfo\Desktop\C#\Nombremagique\Nombremagique\bin\Debug\net6.0\Nombremagique.runtimeconfig.json
+C:\Users\Arinfo\Desktop\C#\Nombremagique\Nombremagique\bin\Debug\net6.0\Nombremagique.dll
+C:\Users\Arinfo\Desktop\C#\Nombremagique\Nombremagique\bin\Debug\net6.0\Nombremagique.pdb
+C:\Users\Arinfo\Desktop\C#\Nombremagique\Nombremagique\obj\Debug\net6.0\Nombremagique.csproj.AssemblyReference.cache
+C:\Users\Arinfo\Desktop\C#\Nombremagique\Nombremagique\obj\Debug\net6.0\Nombremagique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arinfo\Desktop\C#\Nombremagique\Nombremagique\obj\Debug\net6.0\Nombremagique.AssemblyInfoInputs.cache
+C:\Users\Arinfo\Desktop\C#\Nombremagique\Nombremagique\obj\Debug\net6.0\Nombremagique.AssemblyInfo.cs
+C:\Users\Arinfo\Desktop\C#\Nombremagique\Nombremagique\obj\Debug\net6.0\Nombremagique.csproj.CoreCompileInputs.cache
+C:\Users\Arinfo\Desktop\C#\Nombremagique\Nombremagique\obj\Debug\net6.0\Nombremagique.dll
+C:\Users\Arinfo\Desktop\C#\Nombremagique\Nombremagique\obj\Debug\net6.0\refint\Nombremagique.dll
+C:\Users\Arinfo\Desktop\C#\Nombremagique\Nombremagique\obj\Debug\net6.0\Nombremagique.pdb
+C:\Users\Arinfo\Desktop\C#\Nombremagique\Nombremagique\obj\Debug\net6.0\Nombremagique.genruntimeconfig.cache
+C:\Users\Arinfo\Desktop\C#\Nombremagique\Nombremagique\obj\Debug\net6.0\ref\Nombremagique.dll

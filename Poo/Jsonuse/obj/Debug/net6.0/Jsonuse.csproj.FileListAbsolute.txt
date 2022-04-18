@@ -1,0 +1,17 @@
+C:\Users\Arinfo\Desktop\C#\Poo\Jsonuse\bin\Debug\net6.0\Jsonuse.exe
+C:\Users\Arinfo\Desktop\C#\Poo\Jsonuse\bin\Debug\net6.0\Jsonuse.deps.json
+C:\Users\Arinfo\Desktop\C#\Poo\Jsonuse\bin\Debug\net6.0\Jsonuse.runtimeconfig.json
+C:\Users\Arinfo\Desktop\C#\Poo\Jsonuse\bin\Debug\net6.0\Jsonuse.dll
+C:\Users\Arinfo\Desktop\C#\Poo\Jsonuse\bin\Debug\net6.0\Jsonuse.pdb
+C:\Users\Arinfo\Desktop\C#\Poo\Jsonuse\obj\Debug\net6.0\Jsonuse.csproj.AssemblyReference.cache
+C:\Users\Arinfo\Desktop\C#\Poo\Jsonuse\obj\Debug\net6.0\Jsonuse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arinfo\Desktop\C#\Poo\Jsonuse\obj\Debug\net6.0\Jsonuse.AssemblyInfoInputs.cache
+C:\Users\Arinfo\Desktop\C#\Poo\Jsonuse\obj\Debug\net6.0\Jsonuse.AssemblyInfo.cs
+C:\Users\Arinfo\Desktop\C#\Poo\Jsonuse\obj\Debug\net6.0\Jsonuse.csproj.CoreCompileInputs.cache
+C:\Users\Arinfo\Desktop\C#\Poo\Jsonuse\obj\Debug\net6.0\Jsonuse.dll
+C:\Users\Arinfo\Desktop\C#\Poo\Jsonuse\obj\Debug\net6.0\refint\Jsonuse.dll
+C:\Users\Arinfo\Desktop\C#\Poo\Jsonuse\obj\Debug\net6.0\Jsonuse.pdb
+C:\Users\Arinfo\Desktop\C#\Poo\Jsonuse\obj\Debug\net6.0\Jsonuse.genruntimeconfig.cache
+C:\Users\Arinfo\Desktop\C#\Poo\Jsonuse\obj\Debug\net6.0\ref\Jsonuse.dll
+C:\Users\Arinfo\Desktop\C#\Poo\Jsonuse\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Arinfo\Desktop\C#\Poo\Jsonuse\obj\Debug\net6.0\Jsonuse.csproj.CopyComplete

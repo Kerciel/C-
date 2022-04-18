@@ -1,0 +1,15 @@
+C:\Users\fzlau\OneDrive\Bureau\arinfo_cda\C#-20220405T071828Z-001\C#\Morpion\Morpion\bin\Debug\net6.0\Morpion.exe
+C:\Users\fzlau\OneDrive\Bureau\arinfo_cda\C#-20220405T071828Z-001\C#\Morpion\Morpion\bin\Debug\net6.0\Morpion.deps.json
+C:\Users\fzlau\OneDrive\Bureau\arinfo_cda\C#-20220405T071828Z-001\C#\Morpion\Morpion\bin\Debug\net6.0\Morpion.runtimeconfig.json
+C:\Users\fzlau\OneDrive\Bureau\arinfo_cda\C#-20220405T071828Z-001\C#\Morpion\Morpion\bin\Debug\net6.0\Morpion.dll
+C:\Users\fzlau\OneDrive\Bureau\arinfo_cda\C#-20220405T071828Z-001\C#\Morpion\Morpion\bin\Debug\net6.0\Morpion.pdb
+C:\Users\fzlau\OneDrive\Bureau\arinfo_cda\C#-20220405T071828Z-001\C#\Morpion\Morpion\obj\Debug\net6.0\Morpion.csproj.AssemblyReference.cache
+C:\Users\fzlau\OneDrive\Bureau\arinfo_cda\C#-20220405T071828Z-001\C#\Morpion\Morpion\obj\Debug\net6.0\Morpion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fzlau\OneDrive\Bureau\arinfo_cda\C#-20220405T071828Z-001\C#\Morpion\Morpion\obj\Debug\net6.0\Morpion.AssemblyInfoInputs.cache
+C:\Users\fzlau\OneDrive\Bureau\arinfo_cda\C#-20220405T071828Z-001\C#\Morpion\Morpion\obj\Debug\net6.0\Morpion.AssemblyInfo.cs
+C:\Users\fzlau\OneDrive\Bureau\arinfo_cda\C#-20220405T071828Z-001\C#\Morpion\Morpion\obj\Debug\net6.0\Morpion.csproj.CoreCompileInputs.cache
+C:\Users\fzlau\OneDrive\Bureau\arinfo_cda\C#-20220405T071828Z-001\C#\Morpion\Morpion\obj\Debug\net6.0\Morpion.dll
+C:\Users\fzlau\OneDrive\Bureau\arinfo_cda\C#-20220405T071828Z-001\C#\Morpion\Morpion\obj\Debug\net6.0\refint\Morpion.dll
+C:\Users\fzlau\OneDrive\Bureau\arinfo_cda\C#-20220405T071828Z-001\C#\Morpion\Morpion\obj\Debug\net6.0\Morpion.pdb
+C:\Users\fzlau\OneDrive\Bureau\arinfo_cda\C#-20220405T071828Z-001\C#\Morpion\Morpion\obj\Debug\net6.0\Morpion.genruntimeconfig.cache
+C:\Users\fzlau\OneDrive\Bureau\arinfo_cda\C#-20220405T071828Z-001\C#\Morpion\Morpion\obj\Debug\net6.0\ref\Morpion.dll

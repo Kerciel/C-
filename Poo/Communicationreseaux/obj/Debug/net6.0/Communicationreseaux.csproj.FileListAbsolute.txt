@@ -1,0 +1,15 @@
+C:\Users\Arinfo\Desktop\C#\Poo\Communicationreseaux\bin\Debug\net6.0\Communicationreseaux.exe
+C:\Users\Arinfo\Desktop\C#\Poo\Communicationreseaux\bin\Debug\net6.0\Communicationreseaux.deps.json
+C:\Users\Arinfo\Desktop\C#\Poo\Communicationreseaux\bin\Debug\net6.0\Communicationreseaux.runtimeconfig.json
+C:\Users\Arinfo\Desktop\C#\Poo\Communicationreseaux\bin\Debug\net6.0\Communicationreseaux.dll
+C:\Users\Arinfo\Desktop\C#\Poo\Communicationreseaux\bin\Debug\net6.0\Communicationreseaux.pdb
+C:\Users\Arinfo\Desktop\C#\Poo\Communicationreseaux\obj\Debug\net6.0\Communicationreseaux.csproj.AssemblyReference.cache
+C:\Users\Arinfo\Desktop\C#\Poo\Communicationreseaux\obj\Debug\net6.0\Communicationreseaux.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arinfo\Desktop\C#\Poo\Communicationreseaux\obj\Debug\net6.0\Communicationreseaux.AssemblyInfoInputs.cache
+C:\Users\Arinfo\Desktop\C#\Poo\Communicationreseaux\obj\Debug\net6.0\Communicationreseaux.AssemblyInfo.cs
+C:\Users\Arinfo\Desktop\C#\Poo\Communicationreseaux\obj\Debug\net6.0\Communicationreseaux.csproj.CoreCompileInputs.cache
+C:\Users\Arinfo\Desktop\C#\Poo\Communicationreseaux\obj\Debug\net6.0\Communicationreseaux.dll
+C:\Users\Arinfo\Desktop\C#\Poo\Communicationreseaux\obj\Debug\net6.0\refint\Communicationreseaux.dll
+C:\Users\Arinfo\Desktop\C#\Poo\Communicationreseaux\obj\Debug\net6.0\Communicationreseaux.pdb
+C:\Users\Arinfo\Desktop\C#\Poo\Communicationreseaux\obj\Debug\net6.0\Communicationreseaux.genruntimeconfig.cache
+C:\Users\Arinfo\Desktop\C#\Poo\Communicationreseaux\obj\Debug\net6.0\ref\Communicationreseaux.dll

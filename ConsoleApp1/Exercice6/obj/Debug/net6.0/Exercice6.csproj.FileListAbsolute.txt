@@ -1,0 +1,15 @@
+C:\Users\Arinfo\Desktop\C#\ConsoleApp1\Exercice6\obj\Debug\net6.0\Exercice6.csproj.AssemblyReference.cache
+C:\Users\Arinfo\Desktop\C#\ConsoleApp1\Exercice6\obj\Debug\net6.0\Exercice6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arinfo\Desktop\C#\ConsoleApp1\Exercice6\obj\Debug\net6.0\Exercice6.AssemblyInfoInputs.cache
+C:\Users\Arinfo\Desktop\C#\ConsoleApp1\Exercice6\obj\Debug\net6.0\Exercice6.AssemblyInfo.cs
+C:\Users\Arinfo\Desktop\C#\ConsoleApp1\Exercice6\obj\Debug\net6.0\Exercice6.csproj.CoreCompileInputs.cache
+C:\Users\Arinfo\Desktop\C#\ConsoleApp1\Exercice6\bin\Debug\net6.0\Exercice6.exe
+C:\Users\Arinfo\Desktop\C#\ConsoleApp1\Exercice6\bin\Debug\net6.0\Exercice6.deps.json
+C:\Users\Arinfo\Desktop\C#\ConsoleApp1\Exercice6\bin\Debug\net6.0\Exercice6.runtimeconfig.json
+C:\Users\Arinfo\Desktop\C#\ConsoleApp1\Exercice6\bin\Debug\net6.0\Exercice6.dll
+C:\Users\Arinfo\Desktop\C#\ConsoleApp1\Exercice6\bin\Debug\net6.0\Exercice6.pdb
+C:\Users\Arinfo\Desktop\C#\ConsoleApp1\Exercice6\obj\Debug\net6.0\Exercice6.dll
+C:\Users\Arinfo\Desktop\C#\ConsoleApp1\Exercice6\obj\Debug\net6.0\refint\Exercice6.dll
+C:\Users\Arinfo\Desktop\C#\ConsoleApp1\Exercice6\obj\Debug\net6.0\Exercice6.pdb
+C:\Users\Arinfo\Desktop\C#\ConsoleApp1\Exercice6\obj\Debug\net6.0\Exercice6.genruntimeconfig.cache
+C:\Users\Arinfo\Desktop\C#\ConsoleApp1\Exercice6\obj\Debug\net6.0\ref\Exercice6.dll
